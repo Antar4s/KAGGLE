@@ -24,13 +24,20 @@ $ git clone https://github.com/Antar4s/KAGGLE
 <hr>
 
 ## Índices
-### [I Labdata Churn Challenge 2020](#i-labdata-churn-challenge-2020)
+### [I Labdata Churn Challenge 2020](#i-labdata-churn-challenge-2020)<br>[II Titanic Machine Learning from Disaster](#ii-titanic-machine-learning-from-disaster)
 <br>
+
 
 <!-- STRUCTURE 1 -->
 ## I Labdata Churn Challenge 2020
 > Competição para previsão de churn em uma empresa de telecomunicações. <br> Essa competição faz parte da disciplina de Machine Learning do Labdata-FIA.
 ### Base: <a href="https://www.kaggle.com/competitions/labdata-churn-challenge-2020/data">Data</a><br>Biblioteca: PyCaret<br>Algoritmo: Gradient Boosting Classifier
+<br>
+
+<!-- STRUCTURE 2 -->
+## II Titanic Machine Learning from Disaster
+> Competição para construção de um modelo preditivo que responda à pergunta: “que tipo de pessoa tem mais probabilidade de sobreviver?” usando dados de passageiros (ou seja, nome, idade, sexo, classe socioeconômica, etc).
+### Base: <a href="https://www.kaggle.com/competitions/titanic/data">Data</a><br>Biblioteca: XGBoost<br>Algoritmo: Classifier
 
 
 <br>
